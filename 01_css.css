@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: burlywood;    
+}
+
+h1{
+    background-color: bisque;
+}
+
+label{
+    color: rgb(255, 255, 0);
+}
+
+p{
+    color: wheat;    
+}
+button{
+    margin: 20px;
+    padding: 20px;
+}
+
